@@ -1,0 +1,10 @@
+151 4 4 Townhome
+55 2 2 Apartment
+181 12 6 Single Family Home
+139 1 1 Condo
+189 10 5 Single Family Home
+179 14 5 Condo
+92 3 2 Townhome
+195 11 4 Apartment
+249 13 6 Single Family Home
+129 5 3 Condo
